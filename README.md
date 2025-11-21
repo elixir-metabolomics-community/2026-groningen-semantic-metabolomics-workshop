@@ -72,7 +72,7 @@ This event brings together the metabolomics community to advance standards, inte
 - Additional talks and slides will be published as they are available.
 
 ### 🛠️ **Hands-on Activities**
-- [MetaboLights Study Semantic Curation Exercise](hands-on/semantic_mtbls_study_annotation.md)
+- [MetaboLights Study Semantic Curation Exercise](./hands-on/semantic_mtbls_study_annotation.md)
 - [mzQC Tutorial](hands-on/mzQC_tutorial.md)
 - [BioSample Description](hands-on/biosamples_description.md)
 
