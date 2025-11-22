@@ -1,6 +1,4 @@
-# 2026 Groningen Semantic Metabolomics ELIXIR Workshop
 
-Welcome to the official repository for the 2026 Groningen Semantic Metabolomics Workshop (ELIXIR RCI-M). All workshop materials, resources, and session notes will be shared here.
 
 ---
 
