@@ -1,4 +1,4 @@
-# Workshop Overview
+## Workshop Overview
 
 This event brings together the metabolomics community to advance standards, interoperability, and FAIR principles through practical, hands-on engagement with semantic and Linked Data tools. Participants will explore new frameworks, share results, and help define the next steps in integrative metabolomics research.
 
