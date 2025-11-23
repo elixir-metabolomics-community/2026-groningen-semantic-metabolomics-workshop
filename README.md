@@ -7,10 +7,20 @@ Welcome to the official repository for the 2026 Groningen Semantic Metabolomics 
 
 ## Workshop Overview
 
-This event brings together the metabolomics community to advance standards, interoperability, and FAIR principles through practical, hands-on engagement with semantic and Linked Data tools. Participants will explore new frameworks, share results, and help define the next steps in integrative metabolomics research.
+Join us at the next ELIXIR RCI-M Metabolomics Workshop, which will be held in person on 16 and 17 February 2026 in the beautiful city of Groningen (NL) — a unique opportunity for the metabolomics community to shape reproducible, comparable, integrable and FAIR metabolomics data!
+
+This event presents the first results of the ELIXIR RCI-M implementation study, which addresses issues of data harmonisation, semantic modelling and metadata standards for metabolomics. Together, we propose to explore new frameworks for integrating our metabolomic profiles across all omics, enriching our annotations and contributing to the development of ontologies necessary for our field, thereby improving comparisons between studies and reliable data interpretation.
+
+Participants will take part in hands-on sessions and learn how to leverage tools (EBI MetaboLights), formats (mzQC, mzTab-M) and semantic resources (Ontologies, OLS). Whether you are a researcher, developer, or data manager, you will have the opportunity to contribute to the next generation of interoperable standards and artefacts, and see how to adopt and evolve them in practice.
+
+Register now to participate in this ELIXIR metabolomics community initiative!
+
 
 **Date:** 16-17th February 2026  
 **Location:** [House of Connection](https://www.rug.nl/society-business/house-of-connections/?lang=en) - [Groningen](https://maps.app.goo.gl/cvM2XeBqQKzx6Rxp7), Netherlands
+
+More information on the preliminary schebule: 
+
 
 ---
 
