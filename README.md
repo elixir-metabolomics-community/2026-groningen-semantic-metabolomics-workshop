@@ -13,7 +13,7 @@ This event presents the first results of the **ELIXIR RCI-M implementation study
 
 Participants will take part in **hands-on sessions** and learn how to leverage tools (EBI MetaboLights), formats (mzQC, mzTab-M) and semantic resources (Ontologies, OLS). Whether you are a researcher, developer, or data manager, you will have the opportunity to contribute to the next generation of interoperable standards and artefacts, and see how to adopt and evolve them in practice.
 
-**[Register now]()** to participate in this ELIXIR metabolomics community initiative!
+**[Register now](https://docs.google.com/forms/d/e/1FAIpQLSeVTOZ-BU949j-5hXsxMA5nVHK_F_JuOXOAzlkowDjaV3HsyQ/viewform?usp=dialog)** to participate in this ELIXIR metabolomics community initiative!
 
 
 **Date:** 16-17th February 2026  
