@@ -47,7 +47,7 @@ More information on the [preliminary schebule](#Agenda).
 
 ### Program Monday, February 16, 2025
   - 09:00-09:10 Opening - **Peter Horvatovich**
-  - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathway: semantic integration of multiomics data*
+  - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
   - 10:00-11:00 WP1: Semantic Metabolomics Data Model for standardization - **Thomas Payne**
   - 11:00-11:30 Coffee break
   - 11:30-13:00 Hands-on tutorial on MetaboLights Study Semantic Curation - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
