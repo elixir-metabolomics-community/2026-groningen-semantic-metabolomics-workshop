@@ -13,7 +13,7 @@ This event presents the first results of the **ELIXIR RCI-M implementation study
 
 Participants will take part in **hands-on sessions** and learn how to leverage tools (EBI MetaboLights), formats (mzQC, mzTab-M) and semantic resources (Ontologies, OLS). Whether you are a researcher, developer, or data manager, you will have the opportunity to contribute to the next generation of interoperable standards and artefacts, and see how to adopt and evolve them in practice.
 
-**[Register now](https://docs.google.com/forms/d/e/1FAIpQLSeVTOZ-BU949j-5hXsxMA5nVHK_F_JuOXOAzlkowDjaV3HsyQ/viewform?usp=dialog)** to participate in this ELIXIR metabolomics community initiative!
+**[Register now](https://tinyurl.com/ElixirMetabolomicsWorkshop2026)** to participate in this ELIXIR metabolomics community initiative!
 
 
 **Date:** 16-17th February 2026  
@@ -35,6 +35,7 @@ More information on the [preliminary schebule](#Agenda).
 - [Sanjay Srikakulam](https://orcid.org/0000-0002-1752-5060) - IBG-5, Forschungszentrum Jülich GmbH - ELIXIR-DE
 - [Noemi Tejera Hernandez](https://orcid.org/0000-0001-8100-6022) - European Bioinformatics Institute
 - [Thomas Payne](https://orcid.org/0000-0001-7522-981X) - European Bioinformatics Institute
+- [Elliott James Price](https://orcid.org/0000-0001-5691-7000) - RECETOX, Masaryk University - ELIXIR-CZ & EIRENE-CZ
 - [Magalie Weber](https://orcid.org/0000-0001-6573-4070) - INRAE - DIPSO - MetaboHUB - ELIXIR-FR
 - [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) - BiGCaT - Bioinformatics, Maastricht University - ELIXIR-NL
 - ...
@@ -70,30 +71,30 @@ More information on the [preliminary schebule](#Agenda).
 
   - 13:00-14:00 Lunch
 
-  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - *title* - Confirmed
+  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - *The RDA MOMSI Landscape Dashboard: A Tool for Mapping Multi-Omics Standards* - Confirmed
   - 14:45-15:30 Panel discussion
   - 15:30-16:00 Wrap up
 
 ## Resources
 
 ### 📣 **Presentations**
-- [Opening Session Slides](slides/opening_session.pdf)
-- Keynote: *Egon Willighagen* [Integrative Metabolomics](slides/keynote_integrative_metabolomics.pdf)
-- Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [standardisation in multi-omics with the Multi-Omics Metadata Standards Integration (MOMSI) Working Group](slides/keynote_momsi.pdf)
+- Opening Session [Slides will be published as possible](slides/opening_session.pdf)
+- Keynote: *Egon Willighagen* [Slides will be published as possible](slides/wikipathways.pdf)
+- Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Slides will be published as possible](slides/keynote_momsi.pdf)
 - Additional talks and slides will be published as they are available.
 
 ### 🛠️ **Hands-on Activities**
-- [MetaboLights Study Semantic Curation Exercise](./hands-on/semantic_mtbls_study_annotation.md)
-- [mzQC Tutorial](hands-on/mzQC_tutorial.md)
-- [BioSample Description](hands-on/biosamples_description.md)
+- Hands-on I: [Slides will be published as possible](./hands-on/semantic_mtbls_study_annotation.md)
+- Hands-on II:[Slides will be published as possible](hands-on/mzQC_tutorial.md)
+- Hands-on III: [Slides will be published as possible](hands-on/biosamples_description.md)
 
 ### 💬 **Panel Discussion & Notes**
-- [Panel Discussion Notes](notes/panel_discussion.md)
-- [Q&A Summary](notes/qa_summary.md)
+- Panel Discussion [Notes will be published as possible](notes/panel_discussion.md)
+- Q&A Summary
 
 ### ✅ **Wrap-up & Outcomes**
-- [Workshop Wrap-up Summary](notes/wrap_up.md)
-- [Future Directions & Community Feedback](notes/future_directions.md)
+- Workshop Wrap-up [Summary will be published as possible](notes/wrap_up.md)
+- Future Directions & Community Feedback [Notes will be published as possible](notes/future_directions.md)
 
 ---
 
