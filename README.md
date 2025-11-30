@@ -47,8 +47,8 @@ More information on the [preliminary schebule](#Agenda).
 
 ### Program Monday, February 16, 2025
   - 09:00-09:10 Opening - **Peter Horvatovich**
-  - 09:10-10:00 Keynote I - **Egon Willighagen** - *title* - Confirmed
-  - 10:00-11:00 ELIXIR RCI-M preliminary results for WP1 and initiatives panorama - **Thomas Payne**, ...
+  - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
+  - 10:00-11:00 WP1: Semantic Metabolomics Data Model for standardization - **Thomas Payne**
   - 11:00-11:30 Coffee break
   - 11:30-13:00 Hands-on tutorial on MetaboLights Study Semantic Curation - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
 
@@ -59,19 +59,19 @@ More information on the [preliminary schebule](#Agenda).
 	 - *Session*: Participant add post-it's with annotation (including ontology annotation accession!) around it.
 
   - 15:30-16:00 Coffee break
-  - 16:00-17:00 ELIXIR RCI-M preliminary results for WP3 - **Monica Chagoyen** (Online)
+  - 16:00-17:00 WP3: Data Interpretation and Multi-Omics Integration - **Monica Chagoyen** (Online)
 
   - 19:00 Dinner
 
 ### Program Tuesday, February 17, 2025
-  - 09:00-11:00 Hands-on session on mzQC tutorial - **Helge Hecht, Elliott price, Nils Hoffmann**, ...
+  - 09:00-11:00 Hands-on session on mzQC tutorial - **Helge Hecht, Elliott price, Nils Hoffmann**
 
   - 11:00-11:30 Coffee break
-  - 11:30-13:00 ELIXIR RCI-M preliminary results for WP2, (updates on standards like mzTab-M, mzQC, ...) - **Nils Hoffmann**, ...
+  - 11:30-13:00 WP2: Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Nils Hoffmann**
 
   - 13:00-14:00 Lunch
 
-  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - *The RDA MOMSI Landscape Dashboard: A Tool for Mapping Multi-Omics Standards* - Confirmed
+  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - *The RDA MOMSI Landscape Dashboard: A Tool for Mapping Multi-Omics Standards*
   - 14:45-15:30 Panel discussion
   - 15:30-16:00 Wrap up
 
