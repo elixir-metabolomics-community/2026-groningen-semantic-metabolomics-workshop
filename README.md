@@ -19,7 +19,7 @@ Participants will take part in **hands-on sessions** and learn how to leverage t
 **Date:** 16-17th February 2026  
 **Location:** [House of Connection](https://www.rug.nl/society-business/house-of-connections/?lang=en) - [Groningen](https://maps.app.goo.gl/cvM2XeBqQKzx6Rxp7), Netherlands
 
-More information on the [preliminary schebule](#Agenda).
+More information on the [preliminary schedule](#Agenda).
 
 
 ---
