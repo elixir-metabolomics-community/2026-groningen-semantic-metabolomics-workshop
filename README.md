@@ -37,7 +37,7 @@ More information on the [preliminary schedule](#Agenda).
 - [Thomas Payne](https://orcid.org/0000-0001-7522-981X) - European Bioinformatics Institute
 - [Elliott James Price](https://orcid.org/0000-0001-5691-7000) - RECETOX, Masaryk University - ELIXIR-CZ & EIRENE-CZ
 - [Magalie Weber](https://orcid.org/0000-0001-6573-4070) - INRAE - DIPSO - MetaboHUB - ELIXIR-FR
-- [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) - BiGCaT - Bioinformatics, Maastricht University - ELIXIR-NL
+- [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) - Translational Genomics, NUTRIM, Maastricht University - ELIXIR-NL
 - ...
 
 
