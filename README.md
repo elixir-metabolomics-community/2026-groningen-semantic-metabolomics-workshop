@@ -64,7 +64,7 @@ More information on the [preliminary schedule](#Agenda).
   - 19:00 Dinner
 
 ### Program Tuesday, February 17, 2025
-  - 09:00-11:00 Hands-on session on mzQC tutorial - **Helge Hecht, Elliott price, Nils Hoffmann**
+  - 09:00-11:00 Hands-on session on mzQC tutorial - **Helge Hecht, Elliott Price, Nils Hoffmann**
 
   - 11:00-11:30 Coffee break
   - 11:30-13:00 WP2: Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Nils Hoffmann**
