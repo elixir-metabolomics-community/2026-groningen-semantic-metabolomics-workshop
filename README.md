@@ -38,7 +38,6 @@ More information on the [preliminary schedule](#Agenda).
 - [Elliott James Price](https://orcid.org/0000-0001-5691-7000) - RECETOX, Masaryk University - ELIXIR-CZ & EIRENE-CZ
 - [Magalie Weber](https://orcid.org/0000-0001-6573-4070) - INRAE - DIPSO - MetaboHUB - ELIXIR-FR
 - [Egon Willighagen](https://orcid.org/0000-0001-7542-0286) - Translational Genomics, NUTRIM, Maastricht University - ELIXIR-NL
-- ...
 
 
 ---
@@ -48,6 +47,7 @@ More information on the [preliminary schedule](#Agenda).
 ### Program Monday, February 16, 2025
   - 09:00-09:10 Opening - **Peter Horvatovich**
   - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
+  
   - 10:00-11:00 WP1: Semantic Metabolomics Data Model for standardization - **Thomas Payne**
   - 11:00-11:30 Coffee break
   - 11:30-13:00 Hands-on tutorial on MetaboLights Study Semantic Curation - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
@@ -65,9 +65,21 @@ More information on the [preliminary schedule](#Agenda).
 
 ### Program Tuesday, February 17, 2025
   - 09:00-11:00 Hands-on session on mzQC tutorial - **Helge Hecht, Elliott Price, Nils Hoffmann**
+    - Introduction QA/QC - Analytics Perspective - 30 min - **Elliott Price**
+    - Interactive Q&A - 15 min - **Elliott Price, Nils Hoffmann**
+    - Overview of mzQC - 15 min - **Nils Hoffmann**
+    - Overview of msQuality - 45 min - **Helge Hecht**
+    - Q&A - 15 min - All
 
   - 11:00-11:30 Coffee break
-  - 11:30-13:00 WP2: Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Nils Hoffmann**
+
+  - 11:30-13:00 WP2: Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Helge Hecht, Nils Hoffmann**
+    - Enabling semantic data integration with enhanced metadata - 15 min - 
+    - Metadata for your tool - hands on with bio.tools & EDAM - 30 min - **Helge Hecht**
+    - QC and reporting survey hands
+    - Survey qc practices - first results - 15 min - **Nils Hoffmann**
+    - What is possible with mzTab-M? Interoperability Hackathon - 15 min -  **Helge Hecht, Nils Hoffmann**
+    - mzTab-M planned updates (chromatography and methods, study variables) - 15 min - **Nils Hoffmann**
 
   - 13:00-14:00 Lunch
 
