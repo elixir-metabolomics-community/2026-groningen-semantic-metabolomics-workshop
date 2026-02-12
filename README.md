@@ -50,7 +50,7 @@ More information on the [preliminary schedule](#Agenda).
   - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
   
   - 10:00-11:00 Session I - Facilitating data interpretation and meta-analysis/integration in Metabolomics - **Monica Chagoyen, Steffen Neumann, Franck Giacomoni, Magalie Weber**
-    - *Temporary Title* - Related RCI-M project milestones and deliverables introduction"  - 30 min - **Monica Chagoyen, Franck Giacomoni**
+    - "Turning Metabolomics Data into Biological Insight: Reporting and Sample Description Matter"  - 30 min - **Monica Chagoyen, Franck Giacomoni**
     - “Making your results count: best practices in metabolomics reporting” - 30 min - **Steffen Neumann**
 
   - 11:00-11:30 Coffee break
@@ -113,7 +113,7 @@ More information on the [preliminary schedule](#Agenda).
   - 11:00-11:30 Coffee break
 
   - 11:30-13:00 Session III - Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Helge Hecht, Nils Hoffmann**
-    - Enabling semantic data integration with enhanced metadata - 15 min - 
+    - Enabling semantic data integration with enhanced metadata - 5 min - **Nils Hoffmann**
     - Metadata for your tool - hands-on with bio.tools & EDAM - 30 min - **Helge Hecht**
     - QC and reporting survey hands
     - Survey QC practices - first results - 15 min - **Nils Hoffmann**
