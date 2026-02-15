@@ -99,7 +99,7 @@ More information on the [preliminary schedule](#Agenda).
       - Opportunities for synergies or collaborations
     - Future Directions - Next steps toward FAIR data, including Linked (Opened) data, Improved search, Better interoperability
 
-  - 19:00 Dinner
+  - 19:00 Dinner: Restaurant WEEVA, [Gedempte Zuiderdiep 8-10, 9711 HG Groningen](https://maps.app.goo.gl/QB8f9F3vZ93vgDGq6)
 
 ### Program Tuesday, February 17, 2026
 
