@@ -45,9 +45,9 @@ More information on the [preliminary schedule](#Agenda).
 ## Agenda
 
 ### Program Monday, February 16, 2026
-  - 09:00-09:10 Opening - **Peter Horvatovich**  
+  - 09:00-09:10 [Opening](https://drive.google.com/file/d/16-vxR0sstxAlsydrM8agXOoCIsO2nl9A/view?usp=drive_link) - **Peter Horvatovich**  
 
-  - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
+  - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data* doi:[10.5281/zenodo.18654362](https://zenodo.org/records/18654362)
   
   - 10:00-11:00 Session I - Facilitating data interpretation and meta-analysis/integration in Metabolomics - **Monica Chagoyen, Steffen Neumann, Franck Giacomoni, Magalie Weber**
     - "[Turning Metabolomics Data into Biological Insight: Reporting and Sample Description Matter](https://drive.google.com/file/d/1MJ_AHlZAoNxaEtHtyrJgX2tSU3SzGTIO/view?usp=drive_link)" + [The BioSample description task](https://drive.google.com/file/d/1iZAxwGnULyrPM5Tl_3QE8O5yhkNXsJhk/view?usp=drive_link) - 30 min - **Monica Chagoyen, Franck Giacomoni**
@@ -132,7 +132,7 @@ More information on the [preliminary schedule](#Agenda).
 ## Resources
 
 ### 📣 **Presentations**
-- Opening Session [Slides will be published as possible](slides/opening_session.pdf)
+- Opening Session *Peter Horvatovich* - [Presentation](https://drive.google.com/file/d/16-vxR0sstxAlsydrM8agXOoCIsO2nl9A/view?usp=drive_link)
 - Keynote: *Egon Willighagen* doi:[10.5281/zenodo.18654362](https://zenodo.org/records/18654362)
 - Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Slides will be published as possible](slides/keynote_momsi.pdf)
 - Additional talks and slides will be published as they are available.
