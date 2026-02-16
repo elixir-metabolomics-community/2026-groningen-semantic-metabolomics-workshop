@@ -64,7 +64,7 @@ More information on the [preliminary schedule](#Agenda).
   - 13:00-14:00 Lunch
 
   - 14:00-15:30 Session II - Semantic Metabolomics Data Model for standardization: Current State Overview - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
-    - Team introduces related RCI-M project milestones and deliverables, including data sharing (landscape with MetaboLights) - 10 min - **Thomas Payne**
+    - [Team introduces related RCI-M project milestones and deliverables, including data sharing (landscape with MetaboLights)](https://drive.google.com/file/d/1Apc-_0n0LTneq56Rrj901ieV1x6ffdS3/view?usp=drive_link) - 10 min - **Thomas Payne**
     - Data models - Introduction to ISA (original), ISA-API, ... - 20 min - **Philippe Rocca-Serra**
     - Ontologies - Introduction - 20 min - **Magalie Weber**
       - What are ontologies
@@ -81,7 +81,7 @@ More information on the [preliminary schedule](#Agenda).
 
   - 16:00-17:30 Hands-on session II - MetaboLights Study Semantic Curation
     - *Part 01* - 45 min - **Noemi Tejera, Thomas Payne**
-      - Brief introduction to MetaboLights (+ hands-on exercise)
+      - [Brief introduction to MetaboLights (+ hands-on exercise)](https://drive.google.com/file/d/1GrKBZ8n7Gu7kz6LZ1CbyrC3wf2OSamdt/view?usp=drive_link)
       - Mapping to ISA - Populate Investigation file in MetaboLights 
       - Tasks: Use Publications / results from Hands-on session I (or ‘Example Studies’) to map the identified terms from the morning session into the different sections of a MetaboLights study (Samples, Assays, Metabolites results)
 
