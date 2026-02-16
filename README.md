@@ -66,7 +66,7 @@ More information on the [preliminary schedule](#Agenda).
   - 14:00-15:30 Session II - Semantic Metabolomics Data Model for standardization: Current State Overview - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
     - [Team introduces related RCI-M project milestones and deliverables, including data sharing (landscape with MetaboLights)](https://drive.google.com/file/d/1Apc-_0n0LTneq56Rrj901ieV1x6ffdS3/view?usp=drive_link) - 10 min - **Thomas Payne**
     - Data models - Introduction to ISA (original), ISA-API, ... - 20 min - **Philippe Rocca-Serra**
-    - Ontologies - Introduction - 20 min - **Magalie Weber**
+    - [Ontologies - Introduction](https://drive.google.com/file/d/1YGkYRv2AVoHIoNn7Vr55GSPEB31hkNCp/view?usp=drive_link) - 20 min - **Magalie Weber**
       - What are ontologies
       - Why ontologies are needed
       - Which tools are useful to search for ontologies and map free text to ontology terms.
@@ -86,6 +86,7 @@ More information on the [preliminary schedule](#Agenda).
       - Tasks: Use Publications / results from Hands-on session I (or ‘Example Studies’) to map the identified terms from the morning session into the different sections of a MetaboLights study (Samples, Assays, Metabolites results)
 
     - *Part 2* - 30 min - **Magalie Weber, Franck Giacomoni**
+      - [Instructions](https://drive.google.com/file/d/1Dwf09BKX8JzZ9jaXCdm912JKECt9Hh5m/view?usp=drive_link)
       - Practical work involving improving or producing annotations.
         - Brief introduction to hands on exercise on Ontologies
         - Identify which ontologies can be used to map terms from the Hands-on sessions I & II outputs
@@ -94,7 +95,7 @@ More information on the [preliminary schedule](#Agenda).
 
   - 17:30-18:00 Wrap-up with feedback to the whole group
     - Discuss MSIO and other initiatives 
-    - Standards to consider (e.g., mzTab-M, LMRC)
+    - Standards to consider (e.g., (, LMRC)
     - Overview of other initiatives that aim to improve the current state (15 min):
       - Examples: FAIRly, MetabolomicsHub, MOMSI
       - Opportunities for synergies or collaborations
