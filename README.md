@@ -56,7 +56,7 @@ More information on the [preliminary schedule](#Agenda).
   - 11:00-11:30 Coffee break
 
   - 11:30-13:00 Hands-on session I - metabolomics (bio)sample description and metabolites results - **Monica Chagoyen, Steffen Neumann, Franck Giacomoni, Magalie Weber**
-    - [Instructions](https://drive.google.com/file/d/1RCJyyrVbbzw4GRnufUCQHaaUmcNJxBRR/view?usp=drive_link)
+    - [Instructions](https://docs.google.com/presentation/d/13edwKOUwZ5r_ALdXq__HBZPYtqmlyTIfnBLmWbDWb8M/edit?usp=drive_link)
     - *Materials*: Participants bring the title page of the paper of their study
     - *Session*: Participant add post-it’s with annotation (including ontology annotation accession!) around it.
     - Q&A - 15 min - All  
