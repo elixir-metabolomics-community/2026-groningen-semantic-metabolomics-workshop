@@ -50,12 +50,13 @@ More information on the [preliminary schedule](#Agenda).
   - 09:10-10:00 Keynote I - **Egon Willighagen** - *WikiPathways: semantic integration of multiomics data*
   
   - 10:00-11:00 Session I - Facilitating data interpretation and meta-analysis/integration in Metabolomics - **Monica Chagoyen, Steffen Neumann, Franck Giacomoni, Magalie Weber**
-    - "Turning Metabolomics Data into Biological Insight: Reporting and Sample Description Matter"  - 30 min - **Monica Chagoyen, Franck Giacomoni**
-    - “Making your results count: best practices in metabolomics reporting” - 30 min - **Steffen Neumann**
+    - "[Turning Metabolomics Data into Biological Insight: Reporting and Sample Description Matter](https://drive.google.com/file/d/1MJ_AHlZAoNxaEtHtyrJgX2tSU3SzGTIO/view?usp=drive_link)" + [The BioSample description task](https://drive.google.com/file/d/1iZAxwGnULyrPM5Tl_3QE8O5yhkNXsJhk/view?usp=drive_link) - 30 min - **Monica Chagoyen, Franck Giacomoni**
+    - “[Making your results count: best practices in metabolomics reporting](https://drive.google.com/file/d/19ZIe56l5o4OSs0xmYe4fo9KvLCP1kQ5b/view?usp=drive_link)” - 30 min - **Steffen Neumann**
 
   - 11:00-11:30 Coffee break
 
   - 11:30-13:00 Hands-on session I - metabolomics (bio)sample description and metabolites results - **Monica Chagoyen, Steffen Neumann, Franck Giacomoni, Magalie Weber**
+    - [Instructions](https://drive.google.com/file/d/1RCJyyrVbbzw4GRnufUCQHaaUmcNJxBRR/view?usp=drive_link)
     - *Materials*: Participants bring the title page of the paper of their study
     - *Session*: Participant add post-it’s with annotation (including ontology annotation accession!) around it.
     - Q&A - 15 min - All  
