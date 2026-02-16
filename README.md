@@ -81,7 +81,7 @@ More information on the [preliminary schedule](#Agenda).
 
   - 16:00-17:30 Hands-on session II - MetaboLights Study Semantic Curation
     - *Part 01* - 45 min - **Noemi Tejera, Thomas Payne**
-      - [Brief introduction to MetaboLights (+ hands-on exercise)](https://drive.google.com/file/d/1GrKBZ8n7Gu7kz6LZ1CbyrC3wf2OSamdt/view?usp=drive_link)
+      - [Brief introduction to MetaboLights (+ hands-on exercise)](https://docs.google.com/presentation/d/1Tksi_9cGX_xNRSSWomiRhT6-opvTGyth/edit?usp=drive_link&ouid=109024006173218288551&rtpof=true&sd=true)
       - Mapping to ISA - Populate Investigation file in MetaboLights 
       - Tasks: Use Publications / results from Hands-on session I (or ‘Example Studies’) to map the identified terms from the morning session into the different sections of a MetaboLights study (Samples, Assays, Metabolites results)
 
