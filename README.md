@@ -131,7 +131,7 @@ More information on the [preliminary schedule](#Agenda).
 
 ### 📣 **Presentations**
 - Opening Session [Slides will be published as possible](slides/opening_session.pdf)
-- Keynote: *Egon Willighagen* [Slides will be published as possible](slides/wikipathways.pdf)
+- Keynote: *Egon Willighagen* doi:[10.5281/zenodo.18654362](https://zenodo.org/records/18654362)
 - Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Slides will be published as possible](slides/keynote_momsi.pdf)
 - Additional talks and slides will be published as they are available.
 
