@@ -131,6 +131,9 @@ More information on the [preliminary schedule](#Agenda).
 
 ## Resources
 
+### Elixir community Groningen workshop repository
+- [Groningen workshop shared google drive](https://drive.google.com/drive/folders/1b-wuhk4IHJ1DN_HlJmAKseOJjyu92l6A?usp=drive_link) 
+
 ### 📣 **Presentations**
 - Opening Session *Peter Horvatovich* - [Presentation](https://drive.google.com/file/d/16-vxR0sstxAlsydrM8agXOoCIsO2nl9A/view?usp=drive_link)
 - Keynote: *Egon Willighagen* doi:[10.5281/zenodo.18654362](https://zenodo.org/records/18654362)
