@@ -5,11 +5,11 @@ library("ggplot2")
 library("tidyr")
 
 str_split <- function(x) {
-    stringr::str_split(x, '\\.')[[1]][1]
+  stringr::str_split(x, '\\.')[[1]][1]
 }
 
 drop_na_cols <- function(df) {
-    as.data.frame(df[, colSums(is.na(df)) == 0])
+  as.data.frame(df[, colSums(is.na(df)) == 0])
 }
 
 download_url_files <- function(sd_df) {

@@ -1,0 +1,13 @@
+name: msquality
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bioconductor-msquality
+  - bioconductor-mzr
+  - devtools
+  - r-devtools
+  - r-jsonlite
+  - r-languageserver
+  - r-rlang
+  - radian
