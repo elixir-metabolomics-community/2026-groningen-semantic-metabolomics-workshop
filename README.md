@@ -90,13 +90,6 @@ More information on the [Agenda](#Agenda).
         - Identify ontology gaps and missing information 
         - Generate potential roadmap on how to submit those terms to those ontologies
 
-  - 17:30-18:00 Wrap-up with feedback to the whole group
-    - Discuss MSIO and other initiatives 
-    - Standards to consider (e.g., (, LMRC)
-    - Overview of other initiatives that aim to improve the current state (15 min):
-      - Examples: FAIRly, MetabolomicsHub, MOMSI
-      - Opportunities for synergies or collaborations
-    - Future Directions - Next steps toward FAIR data, including Linked (Opened) data, Improved search, Better interoperability
   - 17:30-18:00: Visit [*Peter Horvatovich's*](https://www.rug.nl/staff/p.l.horvatovich/?lang=en) [Analytical Biochemistry](https://www.rug.nl/staff/departments/11109) laboratory - Groningen
 
   - 19:00 Dinner: Restaurant WEEVA, [Gedempte Zuiderdiep 8-10, 9711 HG Groningen](https://maps.app.goo.gl/QB8f9F3vZ93vgDGq6)
