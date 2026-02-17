@@ -16,7 +16,7 @@ Participants will take part in **hands-on sessions** and learn how to leverage t
 **Date:** 16-17th February 2026  
 **Location:** [House of Connection](https://www.rug.nl/society-business/house-of-connections/?lang=en) - [Groningen](https://maps.app.goo.gl/cvM2XeBqQKzx6Rxp7), Netherlands
 
-More information on the [preliminary schedule](#Agenda).
+More information on the [Agenda](#Agenda).
 
 
 ---
@@ -102,7 +102,7 @@ More information on the [preliminary schedule](#Agenda).
 
 ### Program Tuesday, February 17, 2026
 
-  - 09:00-11:00 Hands-on session III - mzQC tutorial - **Helge Hecht, Elliott Price, Nils Hoffmann**
+  - 09:00-11:00 [Hands-on session III - mzQC tutorial](https://docs.google.com/presentation/d/1QxT3SF84GOLD5dLHZTGG4XR3Xl35N61QfsI2dgt0yr4/edit?usp=drive_link) - **Helge Hecht, Elliott Price, Nils Hoffmann**
     - Introduction QA/QC - Analytics Perspective - 30 min - **Elliott Price**
     - Interactive Q&A - 15 min - **Elliott Price, Nils Hoffmann**
     - Overview of mzQC - 15 min - **Nils Hoffmann**
