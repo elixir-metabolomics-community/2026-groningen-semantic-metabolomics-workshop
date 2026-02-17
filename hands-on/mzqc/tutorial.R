@@ -90,20 +90,3 @@ mzqc_metrics <- calculateMetricsFromSpectra(
 )
 
 rmzqc::writeMZQC("metrics.mzqc", mzqc_metrics)
-
-# # Also create individual plot for areaUnderTic
-# ggplot(plot_data, aes(x = sample_name, y = areaUnderTic, color = dilution)) +
-#   geom_point(size = 3) +
-#   facet_wrap(~dilution, scales = "free_x") +
-#   theme_minimal() +
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-#   labs(
-#     title = "Area Under TIC by Sample",
-#     x = "Sample ID",
-#     y = "Area Under TIC",
-#     color = "Dilution Level"
-#   )
-
-# # Save the plot to file
-# ggsave("areaUnderTic_plot.png", width = 12, height = 8)
-
