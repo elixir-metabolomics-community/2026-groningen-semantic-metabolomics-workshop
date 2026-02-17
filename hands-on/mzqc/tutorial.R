@@ -12,10 +12,11 @@ drop_na_cols <- function(df) {
     as.data.frame(df[, colSums(is.na(df)) == 0])
 }
 
-download_url_files <- function(sd_df, col_name = "url") {
-  urls <- sd_df[[col_name]]
+download_url_files <- function(sd_df) {
+  urls <- sd_df[["url"]]
+  filenames <- sd[["sample_name"]]
   tmp_dir <- tempdir()
-  local_paths <- file.path(tmp_dir, basename(urls))
+  local_paths <- file.path(tmp_dir, paste0(filenames, ".mzml"))
 
   for (i in seq_along(urls)) {
     utils::download.file(urls[i], local_paths[i], mode = "wb", quiet = TRUE)
