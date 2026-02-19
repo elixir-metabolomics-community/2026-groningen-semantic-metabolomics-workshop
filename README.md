@@ -137,9 +137,9 @@ More information on the [Agenda](#Agenda).
 - Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Presentation](https://drive.google.com/file/d/1WVyQ_4W61clghl-FOjM3YPQ9015epA-T/view?usp=drive_link)
 
 ### 🛠️ **Hands-on Activities**
-- [Hands-on I - Metabolomics (bio)sample Description](hands-on/biosamples.md) - **Franck Giacomoni, Magalie Weber**
+- [Hands-on I - Metabolomics (bio)sample Description](./hands-on/biosamples.md) - **Franck Giacomoni, Magalie Weber**
 - [Hands-on II - MetaboLights Study Semantic Curation](./hands-on/semantic_mtbls_study_annotation.md) - **Noemi Tejera Hernandez, Magalie Weber**
-- [Hands-on III - MzQC](hands-on/mzqc.md) - **Helge Hecht, Elliott Price, Nils Hoffmann**
+- [Hands-on III - MzQC](./hands-on/mzqc.md) - **Helge Hecht, Elliott Price, Nils Hoffmann**
 
 ### 💬 **Panel Discussion**
 - Panel Discussion
