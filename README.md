@@ -61,7 +61,7 @@ More information on the [Agenda](#Agenda).
   - 13:00-14:00 Lunch
 
   - 14:00-15:30 Session II - Semantic Metabolomics Data Model for standardization: Current State Overview - **Thomas Payne, Noemi Tejera Hernandez, Franck Giacomoni, Magalie Weber**
-    - [Team introduces related RCI-M project milestones and deliverables, including data sharing (landscape with MetaboLights)](https://drive.google.com/file/d/1Apc-_0n0LTneq56Rrj901ieV1x6ffdS3/view?usp=drive_link) - 10 min - **Thomas Payne**
+    - Team introduces [related RCI-M project milestones and deliverables, including data sharing (landscape with MetaboLights)](https://drive.google.com/file/d/1Apc-_0n0LTneq56Rrj901ieV1x6ffdS3/view?usp=drive_link) - 10 min - **Thomas Payne**
     - Data models - Introduction to ISA (original), ISA-API, ... - 20 min - **Philippe Rocca-Serra**
     - [Ontologies - Introduction](https://drive.google.com/file/d/1YGkYRv2AVoHIoNn7Vr55GSPEB31hkNCp/view?usp=drive_link) - 20 min - **Magalie Weber**
       - What are ontologies
@@ -69,7 +69,7 @@ More information on the [Agenda](#Agenda).
       - Which tools are useful to search for ontologies and map free text to ontology terms.
       - Which ontologies are relevant.
       - Whether and how to improve existing ontologies.
-    - Team presents results from efforts to improve current state - 30 min - **Thomas Payne**
+    - Team presents [results from efforts to improve current state](https://drive.google.com/file/d/1Apc-_0n0LTneq56Rrj901ieV1x6ffdS3/view?usp=drive_link) - 30 min - **Thomas Payne**
       - Examples
       - Data models - ISA (extended)
       - Ontologies - sources (PSI MS CV, EDAM, ChEBI) - extensions  
@@ -80,7 +80,7 @@ More information on the [Agenda](#Agenda).
     - *Part 01* - 45 min - **Noemi Tejera, Thomas Payne**
       - [Brief introduction to MetaboLights (+ hands-on exercise)](https://docs.google.com/presentation/d/1Tksi_9cGX_xNRSSWomiRhT6-opvTGyth/edit?usp=drive_link&ouid=109024006173218288551&rtpof=true&sd=true)
       - Mapping to ISA - Populate Investigation file in MetaboLights 
-      - Tasks: Use Publications / results from Hands-on session I (or ‘Example Studies’) to map the identified terms from the morning session into the different sections of a MetaboLights study (Samples, Assays, Metabolites results)
+      - Tasks: Use Publications / results from Hands-on session I (or ‘Example Studies’) to map the identified terms from the morning session into the different sections of a MetaboLights study (Samples, Assays, Metabolites results) - [Document](https://docs.google.com/document/d/15XMNwh4ORBrLqPVJG91xtmSdb2VtIvqW/edit)
 
     - *Part 2* - 30 min - **Magalie Weber, Franck Giacomoni**
       - [Instructions](https://drive.google.com/file/d/1Dwf09BKX8JzZ9jaXCdm912JKECt9Hh5m/view?usp=drive_link)
@@ -105,7 +105,7 @@ More information on the [Agenda](#Agenda).
 
   - 11:00-11:30 Coffee break
 
-  - 11:30-13:00 Session III - Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards - **Helge Hecht, Nils Hoffmann**
+  - 11:30-13:00 [Session III - Quality Control (QC) and Enhanced Metadata – updates on mzTab-M, mzQC and other standards](https://docs.google.com/presentation/d/1vfaqtgGxP1be-QTAWWPhCXyC0tFSvl2Kein3jvqvZxk/edit?slide=id.p1#slide=id.p1) - **Helge Hecht, Nils Hoffmann**
     - Enabling semantic data integration with enhanced metadata - 5 min - **Nils Hoffmann**
     - Metadata for your tool - hands-on with bio.tools & EDAM - 30 min - **Helge Hecht**
     - QC and reporting survey hands
@@ -115,13 +115,13 @@ More information on the [Agenda](#Agenda).
 
   - 13:00-14:00 Lunch
 
-  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - *The RDA MOMSI Landscape Dashboard: A Tool for Mapping Multi-Omics Standards*  
+  - 14:00-14:45 Keynote II - **Lindsey Anderson & Tim van den Bossche** (RDA MOMSI Working Group) - [*The RDA MOMSI Landscape Dashboard: A Tool for Mapping Multi-Omics Standards*](https://drive.google.com/file/d/1WVyQ_4W61clghl-FOjM3YPQ9015epA-T/view?usp=drive_link) 
 
   - 14:45-15:30 Panel discussion
   - 15:30-16:00 Wrap-up with feedback to the whole group 
     - Discuss MSIO and other initiatives 
-    - Standards to consider (e.g., (, LMRC)
-    - Overview of other initiatives that aim to improve the current state (15 min):
+    - Standards to consider (e.g., LMRC)
+    - Overview of other initiatives that aim to improve the current state:
       - Examples: FAIRly, MetabolomicsHub, MOMSI
       - Opportunities for synergies or collaborations
     - Future Directions - Next steps toward FAIR data, including Linked (Opened) data, Improved search, Better interoperability
@@ -134,21 +134,23 @@ More information on the [Agenda](#Agenda).
 ### 📣 **Presentations**
 - Opening Session *Peter Horvatovich* - [Presentation](https://drive.google.com/file/d/16-vxR0sstxAlsydrM8agXOoCIsO2nl9A/view?usp=drive_link)
 - Keynote: *Egon Willighagen* doi:[10.5281/zenodo.18654362](https://zenodo.org/records/18654362)
-- Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Slides will be published as possible](slides/keynote_momsi.pdf)
-- Additional talks and slides will be published as they are available.
+- Keynote: *Tim van den Bossche* (VIB, Ugent), *Lindsey Anderson* (PNLL) [Presentation](https://drive.google.com/file/d/1WVyQ_4W61clghl-FOjM3YPQ9015epA-T/view?usp=drive_link)
 
 ### 🛠️ **Hands-on Activities**
-- Hands-on I: [Slides will be published as possible](./hands-on/semantic_mtbls_study_annotation.md)
-- Hands-on II:[Slides will be published as possible](hands-on/mzQC_tutorial.md)
-- Hands-on III: [Slides will be published as possible](hands-on/biosamples_description.md)
+- [Hands-on I - Metabolomics (bio)sample Description](hands-on/mzQC_tutorial.md) - **Franck Giacomoni, Magalie Weber**
+- [Hands-on II - MetaboLights Study Semantic Curation](./hands-on/semantic_mtbls_study_annotation.md) - **Noemi Tejera Hernandez, Magalie Weber**
+- [Hands-on III - MzQC](hands-on/mzqc/) - **Helge Hecht, Elliott Price, Nils Hoffmann**
 
-### 💬 **Panel Discussion & Notes**
-- Panel Discussion [Notes will be published as possible](notes/panel_discussion.md)
+### 💬 **Panel Discussion**
+- Panel Discussion
 - Q&A Summary
 
 ### ✅ **Wrap-up & Outcomes**
-- Workshop Wrap-up [Summary will be published as possible](notes/wrap_up.md)
-- Future Directions & Community Feedback [Notes will be published as possible](notes/future_directions.md)
+- Workshop Wrap-up
+- Future Directions & Community Feedback
+
+### Groningen Meeting Report
+[report will be published as possible](notes/workshop_report.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# Agenda Summary 
+# Hands-on II
 ## Current State Overview (WP1)
   + Team presents the current status of WP1 (5-10 min).
 
