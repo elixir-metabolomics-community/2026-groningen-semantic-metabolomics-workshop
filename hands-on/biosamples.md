@@ -1,6 +1,6 @@
 # Hands-on I - Metabolomics (bio)sample Description
 
-![image](/assets/img/biosamples.png)
+![image](../assets/img/biosamples.png)
 
 ## Resources
 
